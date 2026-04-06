@@ -12,7 +12,7 @@ I'm an M.Tech student in **Automotive Technology** at **COEP Technological Unive
 
 - Currently working on **EV Noise Prediction** using CNNs, ResNet & EfficientNet with mel spectrograms
 - Exploring **ADAS systems**, sensor fusion, and autonomous driving technologies
-- Freelance **AI Trainer & Data Annotation Specialist** (RLHF, multimodal annotation, prompt engineering)
+- Passionate about **NVH engineering**, acoustic vehicle alerting systems, and vehicle intelligence
 - Based in **Pune, Maharashtra, India**
 
 ---
@@ -43,7 +43,7 @@ I'm an M.Tech student in **Automotive Technology** at **COEP Technological Unive
 | **Automotive / NVH** | EV Noise Prediction, Acoustic Vehicle Alerting Systems |
 | **ADAS & Autonomous Vehicles** | Sensor Fusion, Perception, Control Systems |
 | **Signal Processing** | Mel Spectrograms, FFT, Audio Feature Extraction |
-| **Data Science** | Data Annotation, RLHF, Prompt Engineering, Labeling |
+| **Automotive Engineering** | Electric Vehicles, Powertrain, Vehicle Dynamics |
 
 ---
 
@@ -72,7 +72,7 @@ I'm an M.Tech student in **Automotive Technology** at **COEP Technological Unive
 
 - Working on: **EV Noise Classification using CNN + mel spectrograms**
 - Learning: **Advanced ADAS, Sensor Fusion, Autonomous Driving from scratch**
-- Open to: **Collaborations in ML for automotive, ADAS research, data annotation projects**
+- Open to: **Research collaborations in automotive AI, EV technology, and ADAS development**
 
 ---
 
